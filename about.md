@@ -1,5 +1,7 @@
 # About
 
+*An earlier reincarnation of this blog lived at https://adelenel.ai under the name Green Cheminformatics. Those posts have been archived here.*
+
 Hello World :)
 
 I like building software and analysing data to investigate, optimise, and solve problems relating to the environment and sustainability.

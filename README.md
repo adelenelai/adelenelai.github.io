@@ -1,3 +1,3 @@
-# Your blog
+# adelenelai.github.io
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Adelene's blog about environment, sustainability, software, data, and cheminformatics.

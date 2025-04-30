@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Adelene Lai, PhD
-description: environment, software, geospatial, cheminformatics
+description: environment, software, geospatial data, chemicals, sustainability
 github_username: adelenelai
 
 # Email and twitter are optional:
-email: adelenelai[at]gmail[dot]com
-twitter_username:
+linkedin_username: adelenelai
+
 
 # Set this to true to get LaTeX math equation support
 use_math:

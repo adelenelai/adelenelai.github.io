@@ -1,6 +1,4 @@
----
-title:  "Working with COCONUT DB using RDKit"
----
+# Working with COCONUT DB using RDKit - sanitising Natural Product molecules
 ###  Some NPs cannot be sanitised
 
 COCONUT DB is the largest open collection of natural products, developed by [Sorokina et al](https://doi.org/10.1186/s13321-020-00478-9).

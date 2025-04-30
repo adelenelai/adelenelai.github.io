@@ -1,7 +1,6 @@
----
-title:  "Will Malaysia Support Intergovernmental Action on Chemicals, Waste, and Pollution?"
----
-###  Letter to the Editor, Your Opinion column, The Star newspaper (28/2/22)
+# Will Malaysia Support Intergovernmental Action on Chemicals, Waste, and Pollution?
+
+##  Letter to the Editor, Your Opinion column, The Star newspaper (28/2/22)
 
 
 *Below is the unedited version of [my letter published](https://www.thestar.com.my/opinion/letters/2022/02/28/support-action-on-pollution) on 28/2/22 in The Star newspaper.*

@@ -1,7 +1,6 @@
----
-title:  "Exploring COCONUT Locally - Part 1"
----
-### COCONUT, MongoDB, PyMongo, Jupyter Notebooks
+# Exploring COCONUT Locally - Part 1
+
+## COCONUT, MongoDB, PyMongo, Jupyter Notebooks
 
 In my [previous post](https://adelenel.ai/coconutrdkit/), I showed how to work with just the SMILES in COCONUT, downloaded as a `.smi` file from the official COCONUT [webpage](https://coconut.naturalproducts.net/download) (January 2022 version has 407,270 molecules).
 

@@ -1,7 +1,6 @@
----
-title: "Removing Substructure Matches and Returning Fragments in RDKit"
----
-### Some cheminformatics hacking inspired by a reader
+# Removing Substructure Matches and Returning Fragments in RDKit
+
+## Some cheminformatics hacking inspired by a reader
 
 A reader of this blog contacted me regarding a previous [post](https://adelenel.ai/deleteonesubstructure) I wrote about how to remove substructure matches, one-by-one, from a molecule.
 

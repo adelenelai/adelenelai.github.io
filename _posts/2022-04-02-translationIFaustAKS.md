@@ -1,4 +1,4 @@
-# Transcription-Translation of a Conversation on Mendelssohn's Violin Concerto, I. Faust & A. K. Schreiber (2018)
+# Transcription-Translation of a Conversation on Mendelssohn's Violin Concerto, I. Faust and A. K. Schreiber (2018)
 
 *Author's Note 2025-04-30: this translation was done in 2022 and predated all the widely-accessible voice-to-text and translation tools we have today :).*
 
@@ -110,6 +110,3 @@ Why did I do this translation? Several reasons:
 *IF:* Have fun!
 
 (End)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2FtranslationIFaustAKS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

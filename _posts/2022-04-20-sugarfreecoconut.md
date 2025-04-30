@@ -2,7 +2,7 @@
 
 ## Hidden goodies in COCONUT: NP Fingerprints, Sugar-free Forms, NP-Likeness, and more
 
-In [Part 1](https://adelenel.ai/mongodbcoconut/), I showed how to download COCONUT, restore it from its MongoDB dump, then load it in a Jupyter Notebook via PyMongo, ready to be explored.
+In [Part 1](https://adelenelai.github.io/2022/04/02/mongodbcoconut.html), I showed how to download COCONUT, restore it from its MongoDB dump, then load it in a Jupyter Notebook via PyMongo, ready to be explored.
 
 Now, I will show how to use PyMongo to query the extensive metadata and properties (the 'hidden' goodies) that have been calculated for all natural products (NPs) in COCONUT.
 
@@ -47,4 +47,3 @@ In COCONUT, we can query which NPs have what kinds of sugars (*e.g.,* linear, ri
 ### Update: COCONUT in PubChem
 [COCONUT has recently been uploaded to PubChem](https://twitter.com/AdeleneLai/status/1511996631637450761). For now, the metadata I described in this post are not available on PubChem, but I guess more calculated properties and cross-linked data will be available soon.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2Fsugarfreecoconut%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

@@ -2,7 +2,7 @@
 
 ## COCONUT, MongoDB, PyMongo, Jupyter Notebooks
 
-In my [previous post](https://adelenel.ai/coconutrdkit/), I showed how to work with just the SMILES in COCONUT, downloaded as a `.smi` file from the official COCONUT [webpage](https://coconut.naturalproducts.net/download) (January 2022 version has 407,270 molecules).
+In my [previous post](https://adelenelai.github.io/2022/03/16/coconutrdkit.html), I showed how to work with just the SMILES in COCONUT, downloaded as a `.smi` file from the official COCONUT [webpage](https://coconut.naturalproducts.net/download) (January 2022 version has 407,270 molecules).
 
 But what if you want to explore the **whole COCONUT dataset** and not just the SMILES?
 
@@ -103,5 +103,3 @@ Out:
 ```
 
 In my next post I will explore COCONUT more. Stay tuned and feel free to leave a comment or suggestion for what would be interesting to see about COCONUT :)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2Fmongodbcoconut&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

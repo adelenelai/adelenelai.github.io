@@ -13,7 +13,3 @@ To start, I downloaded the Canonical SMILES .smi file from the [COCONUT website]
 
 
 {% gist b3579d3e02a10a330adae2f0818df137  %}
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2Fcoconutrdkit%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

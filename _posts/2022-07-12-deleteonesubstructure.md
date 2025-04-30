@@ -8,7 +8,7 @@ Specifically, the OP asked how to delete just one Cl *atom* at a time in his mol
 This was really interesting for me because I worked on a similar problem recently (but with a twist!).
 
 
-![leave-tweedledum-alone](../images/tweedledum.jpeg)
+![leave-tweedledum-alone](/images/tweedledum.jpeg)
 
 
 The problem is, `DeleteSubstructs` removes **all** substructures matching the query in a given molecule. Therefore, Greg suggested two ways:
@@ -49,5 +49,3 @@ I'm curious if there are better ways to remove one substructure match at a time 
 * [RDKit Blog - R-Group Decomposition](https://rdkit.blogspot.com/2019/12/using-r-group-decomposition-code.html)
 * [More R-Group Decomposition](https://greglandrum.github.io/rdkit-blog/tutorial/prototypes/drawing/2021/08/07/rgd-and-highlighting.html)
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2Fdeleteonesubstructure%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

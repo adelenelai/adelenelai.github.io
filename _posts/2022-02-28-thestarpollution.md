@@ -70,5 +70,3 @@ Petaling Jaya
 [10] Wilkinson, J. L. et al. Pharmaceutical pollution of the world’s rivers. 2022. https://doi.org/10.1073/pnas.2113947119
 
 [11] Wang Z. et al. We need a global science-policy body on chemicals and waste. 2021 https://doi.org/10.1126/science.abe9090
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelene.lai%2Fthestarpollution%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

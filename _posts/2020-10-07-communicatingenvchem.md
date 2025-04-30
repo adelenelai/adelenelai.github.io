@@ -41,8 +41,6 @@ Considering these issues, I think SMILES and/or InChIKeys should be provided ins
 UPDATE 21/01/2021: Another con of using CAS as identifiers: not only can there be multiple (depending e.g. on the patent application status of that chemical compound), but sometimes, CAS numbers can be 'retired' and no longer become associated with that particular compound after some time in certain databases. 
 
 
-\
-
 
 ---
 

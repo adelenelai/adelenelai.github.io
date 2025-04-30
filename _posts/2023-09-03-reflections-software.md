@@ -32,7 +32,7 @@ But especially since I still work on R&D projects in my free time, I occasionall
 
 It's like being in [Two Places At Once](https://www.youtube.com/watch?v=I1MBgIchMxM), like Mandy Moore in *A Walk to Remember* (yes, that tearjerker from the 2000s - c'mon, I'm a 90's kid).
 
-![Mandy Moore in that iconic film A Walk to Remember](../images/mandymoore.jpeg)
+![Mandy Moore in that iconic film A Walk to Remember](/images/mandymoore.jpeg)
 
 Here's what I do differently now as a software dev compared to when I was doing R&D:
 
@@ -98,7 +98,7 @@ So, let's Move Fast and Break Things :D
 
 (And as usual, there's an XKCD for that.)
 
-![Move Fast, Break Things...](../images/move_fast_and_break_things.png)
+![Move Fast, Break Things...](/images/move_fast_and_break_things.png)
 
 There is one more point I want to address that did not really affect me, but that I've seen other researchers concerned about when it comes to pushing code regularly in public repos, and that is the **fear of being scooped**. 
 
@@ -146,7 +146,7 @@ For example, my 'tests' tried to address questions like...
 
 *What about cases where we have branched compounds, not just linear? How would fragmentation work there?*
 
-![Different use cases for OngLai](../images/use-cases-homologues.png)
+![Different use cases for OngLai](/images/use-cases-homologues.png)
 
 *What about different stereochemistries of the same compound?*
 
@@ -174,16 +174,13 @@ I think this only makes sense and is worth doing if there is reusability foresee
 
 Overall, I *think* I've become a better coder overall (good mentorship helps). I work quicker, learn quicker, and (hopefully) write code that not only God understands.
 
-![Only God Understands](../images/onlygodunderstands.png)
+![Only God Understands](/images/onlygodunderstands.png)
 
 If you stuck with me to the end, thanks for reading these rambles, feel free to leave a comment below - I'd love to know what you think.
 
 Ever onward!
 
 > <sup>*</sup> The only Computer Science course I ever took was "Scientific Databases", an elective during my exchange semester in Chemistry at ETH. On at least 2 occasions throughout the semester, the TAs thought I was lost and in the wrong department (which I technically 'was', but I was coming from the liberal arts - you were expected to study outside the department!). We learned about RDBs, views, querying, relations - all that good stuff. At the oral exam at the end of the semester, the professor asked me about XML and was shocked I didn't know what it was. I still remember his face when he asked me "you've never heard of XML?". Anyway, I passed the course, but it was tough - academically, but also spiritually (...). I'm glad I did it though. I learned a lot.
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2Fwip%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 

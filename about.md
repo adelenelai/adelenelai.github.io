@@ -1,6 +1,6 @@
 # About
 
-Adelene works on environmental problems, with a focus on building software and analysing **geospatial and chemicals data using AI**. 
+Adelene works on environmental problems, with a focus on **building software and using AI to analyse geospatial and chemicals data**. 
 
 Previous work in environmental policy, governance, and sustainability strategy. 
 

@@ -1,7 +1,8 @@
----
-title: "Transcription & Translation (DE->EN) of a Conversation on Mendelssohn's Violin Concerto, I. Faust & A. K. Schreiber (2018)"
----
-###  On the evolution of Mendelssohn's Violin Concerto and why it captivates so many young violinists
+# Transcription & Translation (DE->EN) of a Conversation on Mendelssohn's Violin Concerto, I. Faust & A. K. Schreiber (2018)
+
+*Author's Note 2025-04-30: this translation was done in 2022 and predated all the widely-accessible voice-to-text and translation tools we have today :).*
+
+##  On the evolution of Mendelssohn's Violin Concerto and why it captivates so many young violinists
 
 
 [Video by Freiburger Barockorchester on YouTube](https://www.youtube.com/watch?v=6ttm_x_NO5s). (Ctrl+click to open in new tab)

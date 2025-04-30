@@ -1,6 +1,4 @@
----
-title:  "Communicating Environmental Chemistry - CAS? SMILES? InChIKey?"
----
+# Communicating Environmental Chemistry - CAS? SMILES? InChIKey?
 
 
 *tldr; please provide SMILES and/or InChIKeys in your papers!*

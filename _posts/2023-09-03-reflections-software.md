@@ -1,7 +1,6 @@
----
-title:  "Reflections on Software Development post-PhD"
----
-### What I was thinking vs. what I think now
+# Reflections on Software Development post-PhD
+
+## What I was thinking vs. what I think now
 
 > If you're new to Green Cheminformatics, hello I'm Adelene.
 > I'm currently a software developer at an environmental analytics company in Luxembourg. 

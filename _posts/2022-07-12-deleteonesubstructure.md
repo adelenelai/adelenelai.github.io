@@ -1,7 +1,5 @@
----
-title:  "Leave Tweedle-Dum alone!"
----
-### Deleting one substructure match at a time
+# Leave Tweedle-Dum alone! - Deleting One Substructure when Multiple are Present
+## Deleting one substructure match at a time
 
 I recently came across this [post](https://github.com/rdkit/rdkit/discussions/4685) on RDKit Discussions about deleting one substructure match when there are multiple in the same molecule.
 
@@ -47,7 +45,7 @@ I'm curious if there are better ways to remove one substructure match at a time 
 
 *Solving this problem was part of one of my PhD projects to develop an algorithm to classify homologous series. Check it out [here](https://github.com/adelenelai/classify_homologues).*
 
-##### Further Reading
+### Further Reading
 * [RDKit Blog - R-Group Decomposition](https://rdkit.blogspot.com/2019/12/using-r-group-decomposition-code.html)
 * [More R-Group Decomposition](https://greglandrum.github.io/rdkit-blog/tutorial/prototypes/drawing/2021/08/07/rgd-and-highlighting.html)
 

@@ -1,4 +1,4 @@
-# "Cheminformatics for Risk Assessment of Transformation Products"
+# Cheminformatics for Risk Assessment of Transformation Products
 
 ## MCS Tanimoto Similarity, 6000+ Transformations, Antimicrobial Resistance and Ecological Risk Assessment
 

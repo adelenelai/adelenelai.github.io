@@ -1,14 +1,12 @@
 # About
 
-Hello and welcome to my blog :)
-
-I'm Adelene, a Software Developer solving environmental problems with a focus on **geospatial data and Chemicals & Waste**. 
+Adelene works on environmental problems, with a focus on building software and analysing *geospatial and chemicals data*. 
 
 PhD Environmental Cheminformatics, previous work in environmental policy, governance, and sustainability strategy. 
 
 Based in Luxembourg, originally from Malaysia.
 
-Foodie and sprint triathlete; in the mornings you'll find me at the wet market, in the evenings, the concert hall.
+Foodie and sprint triathlete. Enjoys going to wet markets and concert halls.
 
 # Links
 - [LinkedIn](https://www.linkedin.com/in/adelenelai/)

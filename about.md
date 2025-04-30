@@ -1,10 +1,10 @@
 # About
 
-Software Developer solving environmental problems.
+Hello and welcome to my blog :)
 
-Focus on geospatial data, chemicals, waste, and sustainability strategy.
+I'm Adelene, a Software Developer solving environmental problems with a focus on **geospatial data, climate resilience, chemicals & waste**. 
 
-PhD Environmental Cheminformatics.
+PhD Environmental Cheminformatics, previous work on environmental governance and sustainability strategy. 
 
 Based in Luxembourg, originally from Malaysia.
 

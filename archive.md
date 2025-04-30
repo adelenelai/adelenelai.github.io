@@ -1,4 +1,6 @@
-# Archived Blog "Green Cheminformatics" (2019-2023)
+# Archive
+
+## Green Cheminformatics (my former blog from 2019-2023)
 
 * [Communicating Environmental Chemistry - CAS? SMILES? InChIKey?]()
 * [Developing this Blog = #openscience?]()

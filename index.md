@@ -1,1 +1,1 @@
-A blog about environment, software, geospatial data, chemicals, and sustainability.
+A blog about environment, software, AI, geospatial data, chemicals, and sustainability.

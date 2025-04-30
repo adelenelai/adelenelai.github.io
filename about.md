@@ -2,9 +2,9 @@
 
 Hello and welcome to my blog :)
 
-I'm Adelene, a Software Developer solving environmental problems with a focus on **geospatial data, climate resilience, chemicals & waste**. 
+I'm Adelene, a Software Developer solving environmental problems with a focus on **geospatial data and Chemicals & Waste**. 
 
-PhD Environmental Cheminformatics, previous work on environmental governance and sustainability strategy. 
+PhD Environmental Cheminformatics, previous work in environmental policy, governance, and sustainability strategy. 
 
 Based in Luxembourg, originally from Malaysia.
 

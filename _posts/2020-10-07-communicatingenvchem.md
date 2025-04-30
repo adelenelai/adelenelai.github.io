@@ -26,7 +26,7 @@ However, from a cheminformatician's point of view, CAS is not a great identifier
 * limited parseability using open cheminformatics toolkits (besides conversion services like Cactus, PubChem, and EPA Comptox, RDKit and CDK don't deal with CAS)
 * specificity/granularity problems: e.g. in databases, compounds can have stereochemistry [unspecified](https://pubchem.ncbi.nlm.nih.gov/compound/3680) or [specified](https://pubchem.ncbi.nlm.nih.gov/compound/236702):
 
-![unspecified](../images/communicatingenvchem_CID_3680_300_nostereochem.png)  ![specified](../images/communicatingenvchem_Dexamethasone_acetate_300_stereochem.png)
+![unspecified](/images/communicatingenvchem_CID_3680_300_nostereochem.png)  ![specified](/images/communicatingenvchem_Dexamethasone_acetate_300_stereochem.png)
 
 
 In the above examples, both stereoforms have the same CAS number associated (in PubChem): 1177-87-3 . In this case, how can we distinguish which stereoisomer is which, just from CAS number alone?
@@ -42,7 +42,7 @@ UPDATE 21/01/2021: Another con of using CAS as identifiers: not only can there b
 
 
 \
-\
+
 
 ---
 
@@ -55,6 +55,3 @@ UPDATE 21/01/2021: Another con of using CAS as identifiers: not only can there b
 <a name="casdig">3</a>: https://www.cas.org/support/documentation/chemical-substances/checkdig
 
 <a name="infopol">4</a>: https://www.cas.org/legal/infopolicy 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2Fcommunicatingenvchem%2F&count_bg=%23609C2A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 

@@ -1,4 +1,4 @@
-# Transcription & Translation (DE->EN) of a Conversation on Mendelssohn's Violin Concerto, I. Faust & A. K. Schreiber (2018)
+# Transcription-Translation of a Conversation on Mendelssohn's Violin Concerto, I. Faust & A. K. Schreiber (2018)
 
 *Author's Note 2025-04-30: this translation was done in 2022 and predated all the widely-accessible voice-to-text and translation tools we have today :).*
 

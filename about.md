@@ -1,8 +1,8 @@
 # About
 
-Adelene works on environmental problems, with a focus on building software and analysing *geospatial and chemicals data* using AI. 
+Adelene works on environmental problems, with a focus on building software and analysing **geospatial and chemicals data using AI**. 
 
-PhD Environmental Cheminformatics, previous work in environmental policy, governance, and sustainability strategy. 
+Previous work in environmental policy, governance, and sustainability strategy. 
 
 Based in Luxembourg, originally from Malaysia.
 

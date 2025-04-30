@@ -1,6 +1,5 @@
----
-title:  "Cheminformatics for Risk Assessment of Transformation Products"
----
+# Cheminformatics for Risk Assessment of Transformation Products
+
 ## MCS Tanimoto Similarity, 6000+ Transformations, Antimicrobial Resistance and Ecological Risk Assessment
 
 *I'm back after a hiatus, and by hiatus I mean finishing my PhD (December 2022). I now work as a software developer at an environmental analytics company here in Luxembourg - more about that in a later post.*
@@ -154,8 +153,6 @@ Happy to discuss this further!
 4. Fingerprints in the RDKit: [here](https://www.rdkit.org/UGM/2012/Landrum_RDKit_UGM.Fingerprints.Final.pptx.pdf) and [here](https://greglandrum.github.io/rdkit-blog/posts/2023-01-18-fingerprint-generator-tutorial.html)
 
 *Credits to the PubChem-ECI team for their continued work on Transformations, thanks to Jonas for discussing cheminformatics with me, and a shoutout to Beate Escher and Martin Scheringer, whose lecture introduced me to Environmental Risk Assessment almost a decade ago - it's a big reason why I went into environmental chemistry :)*
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadelenel.ai%2Ftp-parent-similarity%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 

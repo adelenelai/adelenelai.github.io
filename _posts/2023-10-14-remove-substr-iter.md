@@ -1,8 +1,8 @@
-# Removing Substructure Matches and Returning Fragments in RDKit
+# Removing Specific Substructure Matches and Returning Fragments in RDKit
 
 ## Some cheminformatics hacking inspired by a reader
 
-A reader of this blog contacted me regarding a previous [post](https://adelenel.ai/deleteonesubstructure) I wrote about how to remove substructure matches, one-by-one, from a molecule.
+A reader of this blog contacted me regarding a previous [post](https://adelenelai.github.io/2022/07/12/deleteonesubstructure.html) I wrote about how to remove substructure matches, one-by-one, from a molecule.
 
 Back then, 1+ year ago, I wanted to solve the following problem:
 > *given a molecule and a pattern that was present in that molecule at multiple sites (i.e., multiple matches of the same substructure), remove one match while leaving the other(s) intact, intended **for subsequent removal**.*
@@ -23,7 +23,7 @@ However, the difference now is that for each substructure match, Reader wanted t
 
 I gave this problem a go one morning and my solution, two RDKit functions, is explained below.
 
-Notably, I could not use the same method as [before](https://adelenel.ai/deleteonesubstructure) where I used dummy molecules to preserve the fragmentation site.
+Notably, I could not use the same method as [before](https://adelenelai.github.io/2022/07/12/deleteonesubstructure.html) where I used dummy molecules to preserve the fragmentation site.
 
 Instead, this time I had to develop a different approach and got to learn about using EditableMol as well as a trick for [removing atoms by atom ID](https://sourceforge.net/p/rdkit/mailman/rdkit-discuss/thread/18CBD7F4-0BCB-46F9-9F8C-77056B91FEC9%40icr.ac.uk/#msg29022394) (the trick is to remove in descending order of ID!). 
 

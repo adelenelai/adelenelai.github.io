@@ -8,7 +8,7 @@
 > My PhD used cheminformatics to **identify and manage unknown chemical pollutants in the environment**. 
 > During my PhD, I wrote a [cheminformatics algorithm named after a pineapple](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00663-y),
 > reviewed [UVCBs](https://pubs.acs.org/doi/10.1021/acs.est.2c00321), and supported [Luxembourgish](https://pubs.acs.org/doi/10.1021/acsenvironau.1c00008) and [Swiss](https://enveurope.springeropen.com/articles/10.1186/s12302-021-00475-1) authorities, helping them identify chemicals in their waters.
-> Inspired by colleagues at the Steinbeck Group, I also dipped my toes into the world of natural products and yapped about it [here](https://adelenel.ai/sugarfreecoconut/).
+> Inspired by colleagues at the Steinbeck Group, I also dipped my toes into the world of natural products and wrote about it [here](https://adelenelai.github.io/2022/04/20/sugarfreecoconut.html).
 
 
 Not long ago, I joined a small company here in Luxembourg called [WEO](https://www.linkedin.com/company/weo-water/). 
@@ -36,7 +36,7 @@ It's like being in [Two Places At Once](https://www.youtube.com/watch?v=I1MBgIch
 
 Here's what I do differently now as a software dev compared to when I was doing R&D:
 
-##### 1. I cull failing code ruthlessly now
+### 1. I cull failing code ruthlessly now
 In research, I would have an idea, write some code, see it fail, comment it out, then try something else...
 
 ...find it fails again, comment it out, try something else...
@@ -49,7 +49,7 @@ Old Me had the habit of commenting out failing code instead of deleting it becau
 
 However, I inevitably often ended up with scripts and Jupyter notebooks that were super long and full of commented-out code. In hindsight, I only occasionally looked at or reused such code.
 
-As a dev (New Me), I now see commented-out code as distracting or even confusing - *should I build this or not?* 
+As a dev, I see commented-out code as distracting or even confusing - *should I build this or not?* 
 
 More importantly, I realised that if you are pushing code regularly to GitHub, there's no need to keep that commented-out code in your script because you can recover it from your commit history (obvious I know, but it took someone to point that out for it to really sink in).
 
@@ -60,12 +60,12 @@ In research, I didn't push code updates as regularly as I do now for various rea
 
 This brings me to the next point...
 
-##### 2. I commit and push code to GitHub more often 
+### 2. I commit and push code to GitHub more often 
 In research I was the only person working on my code 99.9% of the time.
 
 However, I now **code in a team**, and inevitably need to share code more frequently because team members would build other parts of the codebase that depend on my code. 
 
-Also, now that I've started working more with **cloud technologies**, pushing code is the only way I can test on the cloud (at least in the way it's currently set up). 
+Also, now that I work more with **cloud technologies**, pushing code is the only way I can test on the cloud (at least in the way it's currently set up). 
 
 For example, I would need to push new code to rebuild Docker containers that run on remote servers, calling inputs from cloud storage.
 
@@ -105,7 +105,7 @@ There is one more point I want to address that did not really affect me, but tha
 I have lots of thoughts on this, and will save this for another post.
 
 
-##### 3. I use coding tools that make my life better
+### 3. I use coding tools that make my life better
 I now use an **autoformatter** (Black in VSCode).
 
 Previously, I used to mostly develop in Jupyter Notebooks. I liked being able to visualise my results instantly in cells, and to run code cell-by-cell. 
@@ -116,7 +116,7 @@ I followed this workflow when developing [OngLai: a cheminformatics algorithm to
 
 But *wow*, what was I doing?! (or rather, not doing...)
 
-I read somewhere that our brain should be focused on harder tasks like research, instead of being distracted by trivial things like making sure code is properly formatted. (VSCode has plenty of cool advantages over Jupyter Notebooks - syntax highlighting, linking to code definitions etc.)
+Our brain should be focused on harder tasks like research, instead of being distracted by trivial things like making sure code is properly formatted. (VSCode has plenty of cool advantages over Jupyter Notebooks - syntax highlighting, linking to code definitions etc.)
 
 I would also recommend **linting**. 
 
@@ -127,7 +127,7 @@ I didn't use autoformatting or linting during my PhD and wish I had!
 
 Not to mention one can now use ChatGPT, but that came out post-PhD and is another story.
 
-##### 4. Tests
+### 4. Tests
 This is a tricky topic. 
 
 If I think about it now as a dev working with big code bases containing functions that are called in multiple places, tests are *essential*, because changing a single line of code could cause many other things to break unexpectedly.

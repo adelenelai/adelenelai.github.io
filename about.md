@@ -4,12 +4,12 @@ Adelene works on environmental problems, with a focus on **building software and
 
 Previous work in:
 * software development for satellite-environment analytics at [WEO](https://www.weo-water.com/)
-* environmental policy/governance of Chemicals and Waste at [International Panel on Chemical Pollution](https://www.ipcp.ch/), [ETH Zurich TdLab](https://tdlab.usys.ethz.ch/teaching/tdcs/former/cs2016.html) [Stockholm Environment Institute](https://www.sei.org/)
-* ESG and sustainability strategy at [ACTIAM](https://www.cardano.nl/). 
+* environmental policy of Chemicals and Waste at [International Panel on Chemical Pollution](https://www.ipcp.ch/), [ETH Zurich TdLab](https://tdlab.usys.ethz.ch/teaching/tdcs/former/cs2016.html), and [Stockholm Environment Institute](https://www.sei.org/)
+* ESG and sustainability strategy at [ACTIAM](https://www.cardano.nl/)
 
 Based in Luxembourg, originally from Malaysia.
 
-Foodie and budding sprint triathlete. Find me at the wet market or concert hall!
+Foodie and sprint triathlete. Find me at the wet market or concert hall!
 
 # Education
 

@@ -11,8 +11,6 @@ Previous work in:
 
 Based in Luxembourg, originally from Malaysia.
 
-Foodie and sprint triathlete. Find me at the wet market or concert hall!
-
 # Education
 
 * PhD Environmental Cheminformatics, Université du Luxembourg and Friedrich-Schiller-University Jena (Cotutelle PhD), 2022
@@ -21,6 +19,7 @@ Foodie and sprint triathlete. Find me at the wet market or concert hall!
 
 * BA Chemistry, Wellesley College, 2015
 
+More about me on [Linkedin](https://www.linkedin.com/in/adelenelai)
 
 
 # Publications

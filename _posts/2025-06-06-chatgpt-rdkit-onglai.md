@@ -13,7 +13,7 @@ These papers are coming out hot off the heels from OpenAI's recent-ish [announce
 
 ![openai-rdkit-integration](/images/openai-rdkit-integration.png)
 
-<img src="/images/openai-rdkit-integration.png" height="200" />
+<img src="/images/openai-rdkit-integration.png" height="400" />
 
 Now with these 'improvements' to ChatGPT's knowledge of chemistry and ability to use RDKit, I wanted to see if it could solve an environmental problem I worked on during my PhD.
 

@@ -127,7 +127,7 @@ I didn't use autoformatting or linting during my PhD and wish I had!
 
 Not to mention one can now use ChatGPT, but that came out post-PhD and is another story.
 
-### 4. Tests
+[### 4. Tests](#tests)
 This is a tricky topic. 
 
 If I think about it now as a dev working with big code bases containing functions that are called in multiple places, tests are *essential*, because changing a single line of code could cause many other things to break unexpectedly.
